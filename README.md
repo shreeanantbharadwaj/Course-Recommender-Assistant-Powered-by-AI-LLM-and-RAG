@@ -34,7 +34,7 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ## Objectives
 
-![Objectives Image](path_to_image/objectives_image.png)
+
 
 - Personalize course recommendations.
 - Enable advanced filtering options.
@@ -76,7 +76,7 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ### Step 1: Data Collection and Preprocessing
 
-![Data Collection Image](path_to_image/data_collection_image.png)
+
 
 - **Sources:** Kaggle, web scraping (Coursera, Udemy, edX).
 - **Collected Info:** Title, platform, duration, ratings, user reviews, URLs.
@@ -92,7 +92,9 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ### Step 3: Frontend Development
 
-![Frontend Development Image](path_to_image/frontend_development_image.png)
+![Frontend Development Image1](path_to_image/frontend_development_image1.png)
+![Frontend Development Image2](path_to_image/frontend_development_image2.png)
+
 
 - **Framework:** Streamlit for UI prototyping.
 - **Features:** Query input, filter sidebar, real-time result updates.
@@ -111,7 +113,7 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ## Advanced Features and Future Enhancements
 
-![Advanced Features Image](path_to_image/advanced_features_image.png)
+
 
 ### Current Features
 - Natural language understanding for precise results.
@@ -127,7 +129,7 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ## Conclusion
 
-![Conclusion Image](path_to_image/conclusion_image.png)
+
 
 The **Course Recommender Assistant** effectively bridges the gap between learners and quality educational content by leveraging **AI**, **RAG**, and modern technologies. It offers a scalable and user-centric approach to personalized course discovery.
 
