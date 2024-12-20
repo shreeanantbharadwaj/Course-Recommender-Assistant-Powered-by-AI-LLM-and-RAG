@@ -4,7 +4,7 @@ A project powered by **AI (LLM)** and **Retrieval-Augmented Generation (RAG)** t
 
 - **Documentation:** [View Detailed Documentation](https://drive.google.com/file/d/1HxKR1asmTRIzQGp7VBDOVw8lldFuc8G2/view?usp=sharing)
 - **Demo Video:** [Watch the Demo](https://youtu.be/BLI_PGJe1ys?feature=shared)
--**Source Code:** [GitHub Repository Link](https://github.com/shreeanantbharadwaj/Course-Recommender-Assistant-Powered-by-AI-LLM-and-RAG)
+- **Source Code:** [GitHub Repository Link](https://github.com/shreeanantbharadwaj/Course-Recommender-Assistant-Powered-by-AI-LLM-and-RAG)
 
 ## Table of Contents
 
