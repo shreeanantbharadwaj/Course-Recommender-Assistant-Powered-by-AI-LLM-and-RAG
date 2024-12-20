@@ -2,6 +2,10 @@
 
 A project powered by **AI (LLM)** and **Retrieval-Augmented Generation (RAG)** to provide personalized course recommendations tailored to user queries. Built as part of **INFO 7390 - Advances in Data Sciences and Architecture**, this project demonstrates advanced AI integration and user-focused solutions.
 
+- **Documentation:** [View Detailed Documentation](https://drive.google.com/file/d/1HxKR1asmTRIzQGp7VBDOVw8lldFuc8G2/view?usp=sharing)
+- **Demo Video:** [Watch the Demo](https://youtu.be/BLI_PGJe1ys?feature=shared)
+-**Source Code:** [GitHub Repository Link](https://github.com/shreeanantbharadwaj/Course-Recommender-Assistant-Powered-by-AI-LLM-and-RAG)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -33,8 +37,6 @@ The **Course Recommender Assistant** streamlines course discovery by:
 ---
 
 ## Objectives
-
-
 
 - Personalize course recommendations.
 - Enable advanced filtering options.
@@ -76,8 +78,6 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ### Step 1: Data Collection and Preprocessing
 
-
-
 - **Sources:** Kaggle, web scraping (Coursera, Udemy, edX).
 - **Collected Info:** Title, platform, duration, ratings, user reviews, URLs.
 - **Preprocessing Tools:** Pandas, Regex, NLP tools (spaCy, NLTK).
@@ -94,7 +94,6 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ![Frontend Development Image1](path_to_image/frontend_development_image1.png)
 ![Frontend Development Image2](path_to_image/frontend_development_image2.png)
-
 
 - **Framework:** Streamlit for UI prototyping.
 - **Features:** Query input, filter sidebar, real-time result updates.
@@ -113,8 +112,6 @@ The **Course Recommender Assistant** streamlines course discovery by:
 
 ## Advanced Features and Future Enhancements
 
-
-
 ### Current Features
 - Natural language understanding for precise results.
 - Real-time updates as users interact with filters.
@@ -128,8 +125,6 @@ The **Course Recommender Assistant** streamlines course discovery by:
 ---
 
 ## Conclusion
-
-
 
 The **Course Recommender Assistant** effectively bridges the gap between learners and quality educational content by leveraging **AI**, **RAG**, and modern technologies. It offers a scalable and user-centric approach to personalized course discovery.
 
@@ -145,4 +140,5 @@ The **Course Recommender Assistant** effectively bridges the gap between learner
 
 ---
 
-**Source Code:** [GitHub Repository Link](#)
+
+
